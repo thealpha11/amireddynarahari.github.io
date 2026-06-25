@@ -1,0 +1,125 @@
+{
+  "personal": {
+    "name": "Alex Morgan",
+    "title": "Frontend Developer / Full Stack Developer",
+    "intro": "I build fast, accessible, and maintainable web applications with React, TypeScript, Node.js, and thoughtful product engineering.",
+    "avatar": "assets/developer-avatar.png",
+    "resumeUrl": "resume-placeholder.txt",
+    "location": "Hyderabad, India",
+    "email": "alex.morgan@example.com",
+    "phone": "+91 98765 43210",
+    "linkedin": "https://www.linkedin.com/in/your-profile",
+    "github": "https://github.com/your-username"
+  },
+  "about": {
+    "summary": "Software developer focused on building production-ready interfaces, scalable API integrations, and clear user experiences. Comfortable taking features from ambiguity through design, implementation, testing, and release.",
+    "careerGoals": "Grow into a senior product-minded engineer who leads high-impact frontend and full stack systems while mentoring teams on quality, accessibility, and performance.",
+    "strengths": ["Clean UI implementation", "Problem solving", "API integration", "Performance tuning", "Team collaboration"],
+    "yearsExperience": "3+",
+    "highlights": [
+      "Built responsive web apps with modern React patterns",
+      "Integrated REST APIs and authentication flows",
+      "Improved page performance and accessibility scores",
+      "Collaborated with designers, backend engineers, and product teams"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["HTML5", "CSS3", "JavaScript", "TypeScript", "React"]
+    },
+    {
+      "category": "Backend",
+      "items": ["Node.js", "Express.js"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Git", "GitHub", "VS Code", "REST APIs"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "NovaSoft Labs",
+      "role": "Frontend Developer",
+      "duration": "Jan 2024 - Present",
+      "responsibilities": [
+        "Develop reusable React components for customer-facing dashboards",
+        "Integrate REST APIs with resilient loading, error, and empty states",
+        "Collaborate with designers to ship accessible responsive interfaces"
+      ],
+      "achievements": [
+        "Reduced initial page load time by 32% through code splitting and asset optimization",
+        "Improved Lighthouse accessibility score from 82 to 97"
+      ]
+    },
+    {
+      "company": "BrightStack Technologies",
+      "role": "Junior Full Stack Developer",
+      "duration": "Jun 2022 - Dec 2023",
+      "responsibilities": [
+        "Built internal tools with React, Node.js, and Express.js",
+        "Created API endpoints for task tracking and reporting workflows",
+        "Wrote maintainable documentation for onboarding and feature handoff"
+      ],
+      "achievements": [
+        "Automated weekly reporting tasks and saved the operations team 6 hours per week",
+        "Delivered a reusable form framework used across 5 internal modules"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Book Finder App",
+      "image": "assets/projects/book-finder.svg",
+      "description": "A search experience for discovering books, saving favorites, and viewing rich metadata from a public books API.",
+      "technologies": ["React", "JavaScript", "REST APIs", "CSS3"],
+      "github": "https://github.com/your-username/book-finder-app",
+      "demo": "https://your-username.github.io/book-finder-app/"
+    },
+    {
+      "name": "Portfolio Website",
+      "image": "assets/projects/portfolio-website.svg",
+      "description": "A fast, responsive developer portfolio with theme switching, reusable sections, and GitHub Pages deployment.",
+      "technologies": ["React", "Vite", "CSS3", "GitHub Actions"],
+      "github": "https://github.com/your-username/portfolio",
+      "demo": "https://your-username.github.io/portfolio/"
+    },
+    {
+      "name": "Task Management App",
+      "image": "assets/projects/task-manager.svg",
+      "description": "A productivity app for organizing tasks by status, priority, and due date with a clean board-style workflow.",
+      "technologies": ["React", "TypeScript", "Node.js", "Express.js"],
+      "github": "https://github.com/your-username/task-management-app",
+      "demo": "https://your-username.github.io/task-management-app/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science",
+      "institution": "Example Institute of Technology",
+      "graduationYear": "2022",
+      "coursework": ["Data Structures", "Web Development", "Database Systems", "Software Engineering", "Cloud Computing"]
+    }
+  ],
+  "certifications": [
+    "Coursera: Meta Front-End Developer Professional Certificate",
+    "Coursera: JavaScript for Web Development",
+    "Google Cloud: Cloud Digital Leader",
+    "Google Cloud: Associate Cloud Engineer Preparation",
+    "freeCodeCamp: Responsive Web Design"
+  ],
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/your-profile"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/your-username"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:alex.morgan@example.com"
+    }
+  ]
+}

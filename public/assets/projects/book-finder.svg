@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Book Finder App preview">
+  <defs>
+    <linearGradient id="bookBg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="#f8fafc"/>
+  <rect x="80" y="72" width="1040" height="616" rx="36" fill="url(#bookBg)"/>
+  <rect x="150" y="142" width="900" height="82" rx="22" fill="#ffffff" opacity=".95"/>
+  <circle cx="197" cy="183" r="18" fill="#0f766e"/>
+  <rect x="236" y="168" width="360" height="30" rx="15" fill="#d9e2ea"/>
+  <rect x="165" y="285" width="220" height="296" rx="22" fill="#ffffff" opacity=".96"/>
+  <rect x="435" y="285" width="220" height="296" rx="22" fill="#ffffff" opacity=".96"/>
+  <rect x="705" y="285" width="220" height="296" rx="22" fill="#ffffff" opacity=".96"/>
+  <rect x="192" y="323" width="166" height="174" rx="12" fill="#102027"/>
+  <rect x="462" y="323" width="166" height="174" rx="12" fill="#0f766e"/>
+  <rect x="732" y="323" width="166" height="174" rx="12" fill="#c2410c"/>
+  <rect x="192" y="527" width="120" height="18" rx="9" fill="#102027" opacity=".26"/>
+  <rect x="462" y="527" width="132" height="18" rx="9" fill="#102027" opacity=".26"/>
+  <rect x="732" y="527" width="116" height="18" rx="9" fill="#102027" opacity=".26"/>
+</svg>
