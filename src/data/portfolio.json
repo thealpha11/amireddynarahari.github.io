@@ -6,22 +6,16 @@
     "avatar": "assets/developer-avatar.png",
     "resumeUrl": "resume-placeholder.txt",
     "location": "Hyderabad, India",
-    "email": "alex.morgan@example.com",
-    "phone": "+91 98765 43210",
-    "linkedin": "https://www.linkedin.com/in/your-profile",
-    "github": "https://github.com/your-username"
+    "email": "Narahari.amireddy@gmail.com",
+    "phone": "+91 9063338157",
+    "linkedin": "www.linkedin.com/in/narahari-reddy",
+    "github": "https://github.com/thealpha11"
   },
   "about": {
     "summary": "Software developer focused on building production-ready interfaces, scalable API integrations, and clear user experiences. Comfortable taking features from ambiguity through design, implementation, testing, and release.",
-    "careerGoals": "Grow into a senior product-minded engineer who leads high-impact frontend and full stack systems while mentoring teams on quality, accessibility, and performance.",
-    "strengths": ["Clean UI implementation", "Problem solving", "API integration", "Performance tuning", "Team collaboration"],
-    "yearsExperience": "3+",
-    "highlights": [
-      "Built responsive web apps with modern React patterns",
-      "Integrated REST APIs and authentication flows",
-      "Improved page performance and accessibility scores",
-      "Collaborated with designers, backend engineers, and product teams"
-    ]
+    "careerGoals": "Aspiring Software Developer / ML Engineer with a passion for building scalable, real-world tech solutions. Experienced in full-stack development and deploying machine learning models, especially in healthcare-related applications. Profi cient in Python, Java, MongoDB, and front-end frameworks - React and Angular. Quick learner, strong team collaborator, and eager to contribute in dynamic environments.",
+    "yearsExperience": "fresher",
+    "highlights": ["Python | Java | React | Angular | Git | MongoDB | MySQL | Machine Learning | REST APIs | HTML5/CSS3 | Bootstrap | Visual Studio | VS Code"]
   },
   "skills": [
     {
